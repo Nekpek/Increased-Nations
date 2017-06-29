@@ -3,11 +3,13 @@ state={
 	id=539
 	name="STATE_539"
 	manpower = 2564000
+	resources={
+		rubber=2
+		aluminium=6
+	}
 	
 	state_category = rural
-	resources={
-		rubber=1
-	}
+
 	history={
 		owner = FRA
 		victory_points = {

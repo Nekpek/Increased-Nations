@@ -3,11 +3,12 @@ state={
 	id=540
 	name="STATE_540"
 	manpower = 3225000
+	resources={
+		steel=6
+	}
 	
 	state_category = rural
-	resources={
-		rubber=1
-	}
+
 	history={
 		owner = POR
 		buildings = {
@@ -22,6 +23,7 @@ state={
 		victory_points = {
 			10966 1
 		}
+		add_core_of = POR
 		add_core_of = ANG
 	}
 

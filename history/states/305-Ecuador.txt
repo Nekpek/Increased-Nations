@@ -5,6 +5,7 @@ state={
 	manpower = 2000000
 	resources={
 		oil=2
+		rubber=12
 	}
 	
 	state_category = city

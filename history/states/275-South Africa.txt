@@ -7,7 +7,7 @@ state={
 	state_category = city
 	
 	resources={
-		steel=8
+		steel=18
 		chromium=80
 	}
 

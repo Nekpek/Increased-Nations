@@ -5,10 +5,11 @@ state=
 	manpower = 745000
 	
 	state_category = rural
-	resources={
-		rubber=7
-	}	
 	
+	resources={
+		rubber=4
+		steel=2
+	}
 
 	history= {
 		owner = LIB

@@ -9,6 +9,7 @@ state={
 	resources={
 		rubber=242
 		oil=16
+		steel=4
 	}
 
 	history={

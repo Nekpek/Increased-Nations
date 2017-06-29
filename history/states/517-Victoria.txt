@@ -10,6 +10,7 @@ state={
 	resources={
 		steel=12
 		chromium=6
+		oil=4
 	}
 
 	history={

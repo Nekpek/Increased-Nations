@@ -3,6 +3,9 @@ state=
 	id=297
 	name="STATE_297" # Equatorial Guinea
 	manpower = 185000
+	resources={
+		rubber=1
+	}
 	
 	state_category = enclave
 	
@@ -18,6 +21,7 @@ state=
 				naval_base = 1
 			}
 		}
+		add_core_of = SPR
 	}
 	provinces=
 	{

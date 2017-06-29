@@ -3,11 +3,14 @@ state={
 	id=558
 	name="STATE_558"
 	manpower = 19757000
+	resources={
+		rubber=12
+		steel=2
+		aluminium=2
+	}
 	
 	state_category = rural
-	resources={
-		rubber=3
-	}
+	
 	history={
 		owner = ENG
 		buildings = {

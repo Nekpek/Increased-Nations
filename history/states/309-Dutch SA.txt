@@ -5,7 +5,7 @@ state={
 	manpower = 152000
 
 	resources={
-		aluminium=12
+		aluminium=84
 	}	
 	
 	state_category = rural
@@ -19,6 +19,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = HOL
 	}
 
 	provinces={
